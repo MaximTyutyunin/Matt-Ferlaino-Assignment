@@ -1,0 +1,15 @@
+{
+  "name": "assignmnet-or-matt",
+  "version": "1.0.0",
+  "main": "Question-1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
