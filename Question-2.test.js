@@ -1,6 +1,9 @@
 /**
 test for add, delete, unchanged initial object, propper error throw
 **/
+/**Biggest obstacle:  had to learn about unit tests , then how to install , use Jest, 
+ * had to recall java script, git was not connecting propperly for some reason, had to reinstall nodejs -it was corrupted or something
+ * i never noticed it since i havent reached using it yet **/
 
 let reducerTest = require("./Question-2");
 
